@@ -1,6 +1,10 @@
 # textdocuments
 Text Documents by Warren Woodhouse. For personal use only. Please read the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL | https://warrenwoodhouse.fandom.com/wiki/Category:Type:txt
 
+# FILES
+* [Example.sbv](https://github.com/warrenwoodhouse/textdocuments/raw/main/Example.sbv)
+* [GTA V Unofficial Walkthrough Guide](https://github.com/warrenwoodhouse/textdocuments/releases/download/v1/TXTsByWarrenWoodhouseGameGuidesGTAV.txt)
+
 # LICENSE AGREEMENT
 You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
 
