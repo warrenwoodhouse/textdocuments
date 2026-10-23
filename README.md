@@ -1,22 +1,18 @@
 # textdocuments
-Text Documents by Warren Woodhouse. For personal use only. Please read the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL | https://warrenwoodhouse.fandom.com/wiki/Category:Type:txt
+Text Documents by Warren Woodhouse. For personal use only.
 
-# FILES
-* [Example.sbv](https://github.com/warrenwoodhouse/textdocuments/raw/main/Example.sbv)
-* [GTA V Unofficial Walkthrough Guide](https://github.com/warrenwoodhouse/textdocuments/releases/download/v1/TXTsByWarrenWoodhouseGameGuidesGTAV.txt)
+# License Agreement
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/license) to read the License Agreement.
 
-# LICENSE AGREEMENT
-You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
-
-# WHAT IS IN THE PACKAGE
+# What is in the Package
 Text Documents by Warren Woodhouse.
 
-# SUPPORT
-You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
+# Support
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/support) for Support.
 
-# KEEP IN TOUCH
-* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
-* Follow on Twitter: https://twitter.com/warrenwoodhouse
-* Text Documents Category on Warren Woodhouse: https://warrenwoodhouse.fandom.com/wiki/Category:Type:txt
-* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/wiki/Blog
-* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
+# Keep in Touch
+* [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
+* [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
+* [Text Documents Category on Warren Woodhouse](https://warrenwoodhouse.blogspot.com/search/label/.txt)
+* [Follow on Warren Woodhouse](https://warrenwoodhouse.blogspot.com/)
+* [Follow](https://warrenwoodhouse.blogspot.com/follow)
