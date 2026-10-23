@@ -1,259 +1,47 @@
 # Front Cover
+![Logo](https://raw.githubusercontent.com/warrenwoodhouse/textdocuments/main/gtav/logo.png)
 
- x----------x                                                                x---x
- |          |                                                                |   |
- | \ \  / / |                                                                |   |
- |  \ \/ /  |                x---------x x--------x x-------x x--x      x----x   |
- |   \/\/   |                |         | |        | |       | |  x----x |        | 
- |          |                |    |    | |    |   | |  x-x  | |  x-x  | |  x-x   |
- x----------x                |    |    | |    |   | x--x |  | |  | |  | |  | |   |
-                             |    |    | |       -x x----x  | |  | |  | |  | |   |
-                             |    |    | |    |   | | x--x  | |  | |  | |  | |   |
-                             |         | |    |   | | |  |  | |  | |  | |  | |  x-x   |
-                             x----x    | |    |   | | x--x  | |  | |  | |        |
-                                  |    | |    |   | x-------x x--x x--x x--------x
-                             x----x    | x----x   | 
-                             |         |      |   x------x
-                             x---------x x--x |          |
-                                         |  | x-------x  |
-                                         |  |         |  |                          x--x
-                                       x-x  x-----x   |  |                          |  |
-                                       |          |   |  x----x x------x x------x x-x  x-----x
-                                       x-x  x-----x   |       | | x--x | |      | |          |
-                                         |  |         |  x-x  | | x--x | |  x---x x-x  x-----x
-                                         |  | x---x   |  | |  | | x----x |  x---x   |  |
-                                         |  | |   |   |  | |  | | |  x-x |      |   |  | x---x
-                                         |  x-x   |   |  | |  | | x--x | |  x---x   |  x-x   |
-                                         |        |   |  | |  | |      | |  |       |        |
-                                         x--------x   x--x x--x x------x x--x       x--------x
+Grand Theft Auto V (Xbox 360, Xbox One, PlayStation 3, PlayStation 4 & PlayStation 5) Unofficial Walkthrough Guide
+(C)2013-2026 Warren Woodhouse All Rights Reserved.
 
-                              x-------x  x--x  x--x   x--x       x------x  x------------x      x---------------x
-                              |       |  |  |  |  |   |  |       |      |  |            |      |               |
-                              |  x-x  |  |  |  |  | x-x  x-----x | x--x |  x-x       x--x      x--x         x--x
-                              x--x |  |  |  |  |  | |          | | |  | |     \     /              \       /
-                              x----x  |  |  |  |  | x-x  x-----x | |  | |      \    |               |     /
-                              | x--x  |  |  |  |  |   |  |       | |  | |       x---x               x----x
-                              | |  |  |  |  |  |  |   |  | x---x | |  | |  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                              | |  |  |  |  x--x  |   |  x-x   | | x--x |xx   _______   ___ __       __  ______  xx
-                              | x--x  |  |        |   |        | |     xx     \     _|  | | \ \     / / /  ___/    xx
-                              x-------x  x--------x   x--------x x---xx        |   |_   | |  \ \   / / /  /___       xx
-                                                                    x          |    _|  | |   \ \_/ / /   ___/         x
-                                                                     xx        |   |    | |    \   / /   /__         xx
-                                                                       xx     /____\    |_|     \_/ /______/       xx
-                                                                         xx                                      xx
-                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                                                                  x-----x      x----x
-                                                                                   \     \    /    /
-                                                                                    \     x--x    /
-                                                                                     \           /
-                                                                                      \         /
-                                                                                       x-------x
-
-
-GRAND THEFT AUTO V (XBOX 360, XBOX ONE, PLAYSTATION 3 & PLAYSTATION 4) UNOFFICIAL WALKTHROUGH GUIDE
-(C)2013 WARREN KRIS WOODHOUSE PUBLISHING RIGHTS. ALL RIGHTS RESERVED. WWW.WARRENWOODHOUSE.WEBS.COM
-WEB: WWW.WARRENWOODHOUSE.WEBS.COM
-EMAIL: WARRENWOODHOUSE@OUTLOOK.COM
-FACEBOOK: HTTP://FACEBOOK.COM/WARRENWOODHOUSE
-TWITTER: HTTP://TWITTER.COM/WARRENWOODHOUSE
-YOUTUBE: HTTP://YOUTUBE.COM/WARRENWOODHOUSE
-WARREN WOODHOUSE: HTTP://WARRENWOODHOUSE.WEBS.COM/MEMBERS/WARRENWOODHOUSE/PROFILE
-ROCKSTAR GAMES SOCIAL CLUB PROFILE: HTTP://SOCIALCLUB.ROCKSTARGAMES.COM/MEMBER/WARRENWOODHOUSE
-ROCKSTAR GAMES SOCIAL CLUB CREW: HTTP://SOCIALCLUB.ROCKSTARGAMES.COM/CREW/WARRENWOODHOUSE
-LIFEINVADER: HTTP://SOCIALCLUB.ROCKSTARGAMES.COM/MEMBER/WARRENWOODHOUSE/LIFEINVADER
-SNAPMATIC PHOTOS: HTTP://WARRENWOODHOUSE.WEBS.COM/PHOTOS/SNAPMATIC
-
-THE "W" SYMBOL AT THE TOP LEFT OF THIS DOCUMENT SYMBOLIZES THAT THIS IS A CERTIFIED WARREN WOODHOUSE DOCUMENT.
+* [Subscribe](https://youtube.com/user/warrenwoodhouse)
+* [Blog](https://warrenwoodhouse.blogspot.com/)
+* [Rockstar Games Social Club](https://socialclub.rockstargames.com/member/warrenwoodhouse)
 
 # Document
-
 Document Information
 
-DOCUMENT TITLE: Grand Theft Auto V (XBOX 360, XBOX ONE, PlayStation 3 & PlayStation 4) Unofficial Walkthrough Guide
-DOCUMENT TYPE: Notepad/Text Document
-DOCUMENT FILE TYPE: .txt
-DOCUMENT ALSO AVAILABLE AT: http://warrenwoodhouse.webs.com/guides/gtav
-DOWNLOAD DOCUMENT AS PDF: http://warrenwoodhouse.webs.com/warrenwoodhouse-guides-gtavguide.pdf
-DOCUMENT CREATED: 17th September 2013 at 00:00:00am GMT+00 Newcastle - upon - Tyne, Tyne & Wear, England, United Kingdom.
-DOCUMENT AUTHOR: Warren Woodhouse
-GOOGLE+ PROFILE: http://+.google.com/+warrenwoodhouse
-FACEBOOK PROFILE: http://facebook.com/warrenwoodhouse
-TWITTER PROFILE: http://twitter.com/warrenwoodhouse
-YOUTUBE CHANNEL: http://youtube.com/warrenwoodhouse
-EMAIL: warrenkwoodhouse[at]gmail[dot]com
-OFFICIAL WEBSITE: http://www.warrenwoodhouse.webs.com/
-OFFICIAL PROFILE: http://warrenwoodhouse.webs.com/members/warrenwoodhouse/profile
-LIFEINVADER: http://socialclub.rockstargames.com/member/warrenwoodhouse/lifeinvader
-ROCKSTAR GAMES SOCIAL CLUB PROFILE: http://socialclub.rockstargames.com/member/warrenwoodhouse
-ROCKSTAR GAMES SOCIAL CLUB CREW: http://socialclub.rockstargames.com/crew/warrenwoodhouse
+* DOCUMENT TITLE: Grand Theft Auto V (Xbox 360, Xbox One, PlayStation 3, PlayStation 4 & PlayStation 5) Unofficial Walkthrough Guide
+* DOCUMENT TYPE: Markdown
+* DOCUMENT FILE TYPE: .md
+* DOCUMENT ALSO AVAILABLE AT: [https://warrenwoodhouse.blogspot.com/guides/gtav](https://warrenwoodhouse.blogspot.com/guides/gtav)
+* DOCUMENT CREATED: 17th September 2013 at 00:00 am
+* DOCUMENT AUTHOR: Warren Woodhouse
+* LAST UPDATED: 23rd October 2026 at 10:42 am: Converted into a Markdown file
+* UPDATED DOCUMENT AVAILABLE AT: [https://warrenwoodhouse.blogspot.com/guides/gtav](https://warrenwoodhouse.blogspot.com/guides/gtav)
 
-LAST UPDATED: 26th January 2014 at 21:06:00pm GMT+00 Newcastle - upon - Tyne, Tyne & Wear, England, United Kingdom.
-UPDATED DOCUMENT AVAILABLE AT: http://warrenwoodhouse.webs.com/guides/gtav
+This Walkthrough Guide is for private use only.
 
-
-
-
-                                             ROCKSTAR GAMES PRESENTS
-                                           A ROCKSTAR NORTH PRODUCTION
-                                                GRAND THEFT AUTO V
-
-                   XBOX 360, XBOX ONE, PLAYSTATION 3 & PLAYSTATION 4 UNOFFICIAL WALKTHROUGH GUIDE
-                                              WRITTEN & PRODUCED BY
-                                                WARREN WOODHOUSE
-                                            FOR PRIVATE HOME USE ONLY
-               DOCUMENT (C)2013 WARREN KRIS WOODHOUSE PUBLISHING RIGHTS. ALL RIGHTS RESERVED.
-                                            WWW.WARRENWOODHOUSE.WEBS.COM
-                                        WWW.WARRENWOODHOUSE.BLOGSPOT.COM
-                                           +GOOGLE.COM/+WARRENWOODHOUSE
-                                          FACEBOOK.COM/WARRENWOODHOUSE
-                                           TWITTER.COM/WARRENWOODHOUSE
-                                           YOUTUBE.COM/WARRENWOODHOUSE
-                               SOCIALCLUB.ROCKSTARGAMES.COM/MEMBER/WARRENWOODHOUSE
-                                SOCIALCLUB.ROCKSTARGAMES.COM/CREW/WARRENWOODHOUSE
-                          SOCIALCLUB.ROCKSTARGAMES.COM/MEMBER/WARRENWOODHOUSE/LIFEINVADER
-
-
-
-
-THIS WALKTHROUGH GUIDE IS FOR PRIVATE HOME USE ONLY.
-IF YOU WOULD LIKE TO USE THIS WALKTHROUGH GUIDE AND DOCUMENTATION ON YOUR OWN WEBSITE(S) OR COMPANY(IES) WEBSITE(S) FOR
-FREE, PLEASE CONTACT ME AT warrenwoodhouse@outlook.com OR FACEBOOK ME AT http://facebook.com/warrenwoodhouse OR TWEET ME
-AT http://twitter.com/warrenwoodhouse
+## Changelog
+* 23rd October 2026 at 10:42 am: Converted into a Markdown file and moved from Google Drive to GitHub
+* 26th January 2014 at 9:06 pm: Updated the document to include new information and content
+* 17th September 2013 at 00:00 am: Created document
 
 ## Author
-
-You can find out more about me at www.warrenwoodhouse.webs.com
+You can find out more about me by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/)
 
 ## Author Details
-
-I'm Warren Woodhouse and I'm 24 years old. I live in Newcastle - upon - Tyne with my mum and dad. I'm a student at
-ID Training & Support at Westgate Community College and I'm an Intermediate Dressage Event Rider and I go horse-riding with
-my pony Teddy and we work together as a team as Team Teddy part of Team Woodhouse. I'm an avid gamer and have retained my
-status so far without being online. I've also netted high scores at arcade games around my local area and have sent out
-challenges to my mates online who may live in the local area or internationally.
-
-I'm studying NCFE ICT Level 2, NCFE Employability Training Level 1, NCFE Vocational Studies Level 1, OCR English Level 1,
-OCR Mathematics Level 1 and have also received numerous awards such as the SSAFA Young Achiever Award 2003,
-NEAS World Autism Awareness Day 2011 Achievement (200ft Abseil from the top of The Vermont Hotel in Newcastle) and many
-other awards. I also have a rare Autistic condition which does not have a name yet.
-
-I'm Co-Owner and part-time radio DJ at The Mix NY 97.1 FM, a free Internet-based radio station in up-state
-New York, United States of America. Tune in the radio now, it's live at http://www.thestarradionetwork.org/
-
-I'm also a Marketing Manager and I'm related to the lead vocalist, Nigel "King" Woodhouse, of The NIGEL KING Band
-in Norwich, East Anglia, UK. Visit the band's website at http://www.thenigelkingband.co.uk/
-
-I'm also related to the first lead drummer of Adam & The Ants. I don't know the drummer's name but I'm related to the
-original lead drummer of Adam & The Ants. Check out their website at http://www.adam-ant.net/
-
-I'm currently writing a series of crime-fiction novels online. I also enjoy making movies and videos for my YouTube Channel
-as well. To find out more about what I've been upto recently and to see what I have done before,
-visit: http://warrenwoodhouse.webs.com/members/warrenwoodhouse/profile
-or check out my official personal blog at www.warrenwoodhouse.blogspot.com
-
-Visit my official website at www.warrenwoodhouse.webs.com
-Visit my official blog at www.warrenwoodhouse.blogspot.com and at http://warrenwoodhouse.webs.com/blog
-Visit my official press releases at www.warrenwoodhouse.wordpress.com and at http://warrenwoodhouse.webs.com/press
+I'm Warren Woodhouse. I have Autism & ADHD. I'm an avid gamer with over 20 years experience.
 
 ## Terms
-
 These terms are to be agreed upon those who read and use this documentation and to those who use this documentation
 for private home use only and to those who use this documentation for their own website(s) or company(ies) website(s).
 
 These terms are to be agreed regardless of any set-forth conditions. If you would like to gain permission to use said
-documentation please contact me at warrenwoodhouse@outlook.com , warren798@hotmail.co.uk or at warrenwoodhouse@yahoo.com
+documentation please contact me at warrenwoodhouse@outlook.com
 
-### Document License Agreement
-
-To see full conditions of the license agreement for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/doclic
-
-### Product License Agreement
-
-To see full conditions of the license agreement for the video game software, please read it fully at:
-http://rockstargames.com/v/license
-or at http://warrenwoodhouse.webs.com/terms/rockstargamesgtavlic
-
-### Disclaimer
-
-To see full conditions of the disclaimer for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/disclaimer
-
-### Privacy Policy
-
-To see full conditions of the privacy policy for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/privacy
-
-### Terms & Conditions
-
-To see full conditions of the terms & conditions for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/tac
-
-### Terms of Use
-
-To see full conditions of the terms of use for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/tou
-
-### Terms of Service
-
-To see full conditions of the terms of service for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/tos
-
-### Crown Copyright
-
-To see full conditions of the crown copyright license agreement for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/crowncopyright
-
-### Copyright
-
-To see full conditions of the copyright for this document, please read it fully at:
-http://warrenwoodhouse.webs.com/terms/copyright
-
-## Other Documents in This Collection
-
-Grand Theft Auto - PlayStation 1 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gta
-Grand Theft Auto London 1969 - PlayStation 1 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtalondon
-Grand Theft Auto 2 - PlayStation 1 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gta2
-Grand Theft Auto III - XBOX, PlayStation 2 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gta3
-Grand Theft Auto Vice City - XBOX, PlayStation 2 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtavicecity
-Grand Theft Auto San Andreas - XBOX, PlayStation 2 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtasanandreas
-Grand Theft Auto Liberty City Stories - PlayStation 2, PlayStation Portable & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtalcs
-Grand Theft Auto IV - XBOX 360, PlayStation 3 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtaiv
-Grand Theft Auto IV The Lost And Damned - XBOX 360, PlayStation 3 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtaivtlad
-Grand Theft Auto Vice City Stories - PlayStation 2, PlayStation Portable & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtaivtbogt
-Grand Theft Auto IV The Ballad Of Gay Tony - XBOX 360, PlayStation 3 & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtavcs
-Grand Theft Auto Chinatown Wars - XBOX 360, PlayStation 3, PlayStation Vita, PlayStation Portable & PC Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtactw
-(CURRENT GUIDE) Grand Theft Auto V - XBOX 360, PlayStation 3, XBOX ONE & PlayStation 4 Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtav
-Grand Theft Auto Online - XBOX 360, PlayStation 3, XBOX ONE & PlayStation 4 Unofficial Walkthrough Guide by Warren Woodhouse: http://warrenwoodhouse.webs.com/guides/gtao
-
-All of these documents can be downloaded directly from: http://warrenwoodhouse.webs.com/guides
-These guides are unofficial walkthrough guides for private home use only.
-These guides are to be used with the software of that particular video game software.
-
-All agreements set-forth above are protected by the following laws:
-> UK Copyright, Designs & Patent Act: add
-> UK Crown Copyright: add
-> UK Copyright Law: add
-> US Copyright Law: add
-> US Copyright, Designs & Patent Act: add
-> International Copyright, Designs & Patent Act: add
-> iSAFE - Independent Security Administration for Federal Enterprises - International Secret Act: http://warrenwoodhouse.webs.com/terms/internationalsecretact
-> FA(C)T - Federation Against Copyright Theft - Copyright Protection Act: http://www.fact-uk.org.uk/
-> Warren Woodhouse Licensing Agency - WPL Warren Public License Agreement: http://warrenwoodhouse.webs.com/licensing/terms/wpl
-> Warren Kris Woodhouse Corporation. - Company Rules & Regulations Concerning Documentations (section3:rule4): http://warrenwoodhouse.webs.com/about/company/terms/rules#section3#rule4
-
-To download all of my walkthrough guides, ebooks and other documents that I have written, you can find them all at:
-guides: http://warrenwoodhouse.webs.com/guides
-books: http://warrenwoodhouse.webs.com/books
-comics: http://warrenwoodhouse.webs.com/comics
-newspapers: http://warrenwoodhouse.webs.com/newspapers
-magazines: http://warrenwoodhouse.webs.com/magazines
-newsletters: http://warrenwoodhouse.webs.com/newsletters
-mailing lists: http://warrenwoodhouse.webs.com/apply/mailinglists
-unofficial & official walkthrough guides: http://gamefaqs.com/users/warrenwoodhouse
-fan-based fiction books: http://fanfiction.net/u/4978857
-
-For more links, check out sec:lnks:warrenwoodhouse for a full list of all of my profiles online.
+### License Agreement
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/license) to read the License Agreement.
 
 # Index
 
