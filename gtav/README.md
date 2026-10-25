@@ -91,14 +91,13 @@ These terms are to be agreed regardless of any set-forth conditions. If you woul
 ABOUT THE GAME
 
 MY DESCRIPTION
-
 The game itself is set in the current year - 2012 - and in what seems to be a modern refreshed look of what San Andreas was supposed to be. The game is now not limited to one protagonist - but three. You get to play as three different criminals who are forced together by extreme odds who decide to use all their knowledge as criminals to steal, kill and make-do with tons of cash by robbing the local police departments, businesses and banks within the state.
 
 The criminals are on the HUD as:
-> Michael De Santa/Michael Townley (mis1) and you regain control as him in (mis4) - blue
-> Franklin Clinton (mis2) - green
-> Trevor Philips (mis1) and you regain control as him in (mis15) - orange
-> Yourself (sec:gtao:mis1) and you regain control as him/her when you are playing online (Grand Theft Auto Online only) - yellow
+> Michael De Santa/Michael Townley: Play as him in [Mission 1](#mis1) and you regain control as him again in [Mission 4](#mis4) - blue
+> Franklin Clinton: Play as him in [Mission 2](#mis2) - green
+> Trevor Philips: Play as him in [Mission 1](#mis1) and you regain control as him again in [Mission 15](#mis15) - orange
+> Yourself: Play as yourself in [Mission 1](#gtao:mis1) in GTA Online (Grand Theft Auto Online only) - yellow
 
 ## Find
 
@@ -113,84 +112,84 @@ You can click FIND NEXT or press the Enter key on your keyboard to find the text
 All the missions included in this list make up 60% of the overall game completion progress.
 Listed below, is the list of all the missions in the game along with the alternative missions that are shown in-between:
 
-i: LUDENDORFF, NINE YEARS AGO.../PROLOGUE/OPENING SCENE (intro)
-Mission 1: Prologue (mis1)/start the mission while playing as: Michael Townley
-ii: OPENING TITLES/INTRODUCTION TITLES/OPENING CREDITS/"Rockstar Games presents - a Rockstar North production - Grand Theft Auto V" (mis1:lgo)
-iii: OPENING CREDITS/"creators, developers, etc."/...PRESENT DAY (mis1:crdts)
-Mission 2: Franklin & Lamar (mis2)/start the mission while playing as: Franklin Clinton
-Mission 3: Repossession (mis3)/start the mission while playing as: Franklin Clinton
-Mission 4: Complications (mis4)/start the mission while playing as: Franklin Clinton, Michael De Santa
-Mission 5: Father/Son (mis5)/start the mission while playing as: Michael De Santa, Franklin Clinton
-Mission 6: Chop (mis6)/start the mission while playing as: Franklin Clinton
-Mission 7: Marriage Counseling (mis7)/start the mission while playing as: Michael De Santa, Franklin Clinton
-Mission 8: Daddy's Little Girl (mis8)/start the mission while playing as: Michael De Santa
-Mission 9: Friend Request (mis9)/start the mission while playing as: Michael De Santa
-Mission 10: The Long Stretch (mis10)/start the mission while playing as: Franklin Clinton
-Mission 11: Casing The Jewel Store (mis11)/start the mission while playing as: Michael De Santa
-Mission 12: Bugstars Equipment (mis12)/start the mission while playing as: Michael De Santa
-Mission 13: BZ Gas Grenades (mis13)/start the mission while playing as: Michael De Santa
-Mission 14: The Jewel Store Job (mis14)/start the mission while playing as: Michael De Santa, Franklin Clinton
-Mission 15: Mr. Philips (mis15)/start the mission while playing as: Michael De Santa, Franklin Clinton, Trevor Philips
-Mission 16: Trevor Philips Industries (mis16)/start the mission while playing as: Trevor Philips
-Mission 17: Nervous Ron (mis17)/start the mission while playing as: Trevor Philips
-Mission 18: Crystal Maze (mis18)/start the mission while playing as: Trevor Philips
-MISSION 19: Friends Reunited (mis19)/start the mission while playing as: Trevor Philips
-MISSION 20: Fame Or Shame (mis20)/start the mission while playing as: Michael De Santa, Trevor Philips
-MISSION 21: Dead Man Walking (mis21)/start the mission while playing as: Michael De Santa
-MISSION 22: Did Somebody Say Yoga? (mis22)/start the mission while playing as: Michael De Santa
-MISSION 23: Three's Company (mis23)/start the mission while playing as: Michael De Santa
-MISSION 24: Hood Safari (mis24)/start the mission while playing as: Franklin Clinton
-MISSION 25: Scouting The Port (mis25)/start the mission while playing as: Trevor Philips
-MISSION 26: Minisub (mis26)/start the mission while playing as: Trevor Philips
-MISSION 27: Cargobob (mis27)/start the mission while playing as: Trevor Philips
-MISSION 28: By The Book (mis28)/start the mission while playing as: Michael De Santa, Trevor Philips
-MISSION 29: Blitz Play Setup (mis29)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 30: Tow Truck (mis30)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 31: Masks (mis31)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 32: Boiler Suits (mis32)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 33: Trash Truck (mis33)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 34: The Merryweather Heist (mis34)/start the mission while playing as: Trevor Philips
-MISSION 35: Hotel Assassination (mis35)/start the mission while playing as: Franklin Clinton
-MISSION 36: Blitz Play (mis36)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 37: I Fought The Law (mis37)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
-MISSION 38: Mr. Richards (mis38)/start the mission while playing as: Michael De Santa
-MISSION 39: Eye In The Sky (mis39)/start the mission while playing as: Trevor Philips, Franklin Clinton
-MISSION 40: Caida Libre (mis40)/start the mission while playing as: Michael De Santa, Trevor Philips
-MISSION 41: Deep Inside (mis41)/start the mission while playing as: Franklin Clinton
-MISSION 42: Minor Turbulence (mis42)/start the mission while playing as: Franklin Clinton, Trevor Philips
-MISSION 43: The Paleto Score Setup (mis43)/start the mission while playing as: Trevor Philips, Michael De Santa
-MISSION 44: Predator (mis44)/start the mission while playing as: Trevor Philips
-MISSION 45: Military Hardware (mis45)/start the mission while playing as: Trevor Philips
-MISSION 46: The Paleto Score (mis46)/start the mission while playing as: Michael De Santa, Trevor Philips
-MISSION 47: Derailed (mis47)/start the mission while playing as: Michael De Santa
-MISSION 48: Monkey Business (mis48)/start the mission while playing as: Michael De Santa
-MISSION 49: Hang Ten (mis49)/start the mission while playing as: Trevor Philips
-MISSION 50: Surveying The Score (mis50)/start the mission while playing as: Trevor Philips, Michael De Santa, Franklin Clinton
-MISSION 51: Bury The Hatchet (mis51)/start the mission while playing as: Michael De Santa, Trevor Philips
-MISSION 52: Pack Man (mis52)/start the mission while playing as: Franklin Clinton, Trevor Philips
-MISSION 53: Fresh Meat (mis53)/start the mission while playing as: Franklin Clinton
-MISSION 54: The Ballad Of Rocco (mis54)/start the mission while playing as: Michael De Santa
-MISSION 55: Cleaning Out The Bureau (mis55)/start the mission while playing as: Trevor Philips, Michael De Santa, Franklin Clinton
-MISSION 56: Reuniting The Family (mis56)/start the mission while playing as: Michael De Santa
-MISSION 57: Architect's Plans (mis57)/start the mission while playing as: Franklin Clinton, Michael De Santa
-MISSION 58: Doting Dad (mis58)/start the mission while playing as: Michael De Santa
-MISSION 59: Legal Trouble (mis59)/start the mission while playing as: Michael De Santa
-MISSION 60: The Bureau Raid (mis60)/start the mission while playing as: Michael De Santa
-MISSION 61: The Wrap Up (mis61)/start the mission while playing as: Michael De Santa
-MISSION 62: Lamar Down (mis62)/start the mission while playing as: Franklin Clinton
-MISSION 63: Meltdown (mis63)/start the mission while playing as: Michael De Santa
-MISSION 64: Planning The Big Score (mis64)/start the mission while playing as: Trevor Philips, Franklin Clinton, Michael De Santa
-MISSION 65: Getaway Vehicle (mis65)/start the mission while playing as: Michael De Santa
-MISSION 66: Sidetracked (mis66)/start the mission while playing as: Michael De Santa
-MISSION 67: Driller (mis67)/start the mission while playing as: Michael De Santa
-MISSION 68: The Big Score (mis68)/start the mission while playing as: Trevor Philips
-MISSION 69: Finale (mis69)/start the mission while playing as: Franklin Clinton
-iv: CLOSING TITLES/OUTRODUCTION TITLES/END CREDITS/"creators, developers, etc." - (mis69:crdts) (outro)
-v (sec:sdemis:mis1): Trevor Philips/start the mission while playing as: Trevor Philips
-vi (sec:sdemis:mis2): Franklin Clinton/start the mission while playing as: Franklin Clinton
-vii (sec:sdemis:mis3): Michael De Santa/start the mission while playing as: Michael De Santa
+1. [i: LUDENDORFF, NINE YEARS AGO...](#intro): PROLOGUE/OPENING SCENE
+2. [Mission 1: Prologue](#mis1): start the mission while playing as: Michael Townley
+3. [ii: OPENING TITLES/INTRODUCTION TITLES/OPENING CREDITS](#mis1:lgo): "Rockstar Games presents - a Rockstar North production - Grand Theft Auto V"
+4. [iii: OPENING CREDITS](#mis1:crdts): "creators, developers, etc."/...PRESENT DAY
+5. [Mission 2: Franklin & Lamar](#mis2): start the mission while playing as: Franklin Clinton
+6. [Mission 3: Repossession](#mis3): start the mission while playing as: Franklin Clinton
+7. [Mission 4: Complications](#mis4): start the mission while playing as: Franklin Clinton, Michael De Santa
+8. [Mission 5: Father/Son](#mis5): start the mission while playing as: Michael De Santa, Franklin Clinton
+9. [Mission 6: Chop](#mis6): start the mission while playing as: Franklin Clinton
+10. [Mission 7: Marriage Counseling](#mis7): start the mission while playing as: Michael De Santa, Franklin Clinton
+11. Mission 8: Daddy's Little Girl (mis8): start the mission while playing as: Michael De Santa
+12. Mission 9: Friend Request (mis9)/start the mission while playing as: Michael De Santa
+13. Mission 10: The Long Stretch (mis10)/start the mission while playing as: Franklin Clinton
+14. Mission 11: Casing The Jewel Store (mis11)/start the mission while playing as: Michael De Santa
+15. Mission 12: Bugstars Equipment (mis12)/start the mission while playing as: Michael De Santa
+16. Mission 13: BZ Gas Grenades (mis13)/start the mission while playing as: Michael De Santa
+17. Mission 14: The Jewel Store Job (mis14)/start the mission while playing as: Michael De Santa, Franklin Clinton
+18. Mission 15: Mr. Philips (mis15)/start the mission while playing as: Michael De Santa, Franklin Clinton, Trevor Philips
+19. Mission 16: Trevor Philips Industries (mis16)/start the mission while playing as: Trevor Philips
+20. Mission 17: Nervous Ron (mis17)/start the mission while playing as: Trevor Philips
+21. Mission 18: Crystal Maze (mis18)/start the mission while playing as: Trevor Philips
+22. Mission 19: Friends Reunited (mis19)/start the mission while playing as: Trevor Philips
+23. Mission 20: Fame Or Shame (mis20)/start the mission while playing as: Michael De Santa, Trevor Philips
+24. Mission 21: Dead Man Walking (mis21)/start the mission while playing as: Michael De Santa
+25. Mission 22: Did Somebody Say Yoga? (mis22)/start the mission while playing as: Michael De Santa
+26. Mission 23: Three's Company (mis23)/start the mission while playing as: Michael De Santa
+27. Mission 24: Hood Safari (mis24)/start the mission while playing as: Franklin Clinton
+28. Mission 25: Scouting The Port (mis25)/start the mission while playing as: Trevor Philips
+29. Mission 26: Minisub (mis26)/start the mission while playing as: Trevor Philips
+30. Mission 27: Cargobob (mis27)/start the mission while playing as: Trevor Philips
+31. Mission 28: By The Book (mis28)/start the mission while playing as: Michael De Santa, Trevor Philips
+32. Mission 29: Blitz Play Setup (mis29)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+33. Mission 30: Tow Truck (mis30)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+34. Mission 31: Masks (mis31)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+35. Mission 32: Boiler Suits (mis32)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+36. Mission 33: Trash Truck (mis33)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+37. Mission 34: The Merryweather Heist (mis34)/start the mission while playing as: Trevor Philips
+38. Mission 35: Hotel Assassination (mis35)/start the mission while playing as: Franklin Clinton
+39. Mission 36: Blitz Play (mis36)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+40. Mission 37: I Fought The Law (mis37)/start the mission while playing as: Michael De Santa, Trevor Philips, Franklin Clinton
+41. Mission 38: Mr. Richards (mis38)/start the mission while playing as: Michael De Santa
+42. Mission 39: Eye In The Sky (mis39)/start the mission while playing as: Trevor Philips, Franklin Clinton
+43. Mission 40: Caida Libre (mis40)/start the mission while playing as: Michael De Santa, Trevor Philips
+44. Mission 41: Deep Inside (mis41)/start the mission while playing as: Franklin Clinton
+45. Mission 42: Minor Turbulence (mis42)/start the mission while playing as: Franklin Clinton, Trevor Philips
+46. Mission 43: The Paleto Score Setup (mis43)/start the mission while playing as: Trevor Philips, Michael De Santa
+47. Mission 44: Predator (mis44)/start the mission while playing as: Trevor Philips
+48. Mission 45: Military Hardware (mis45)/start the mission while playing as: Trevor Philips
+49. Mission 46: The Paleto Score (mis46)/start the mission while playing as: Michael De Santa, Trevor Philips
+50. Mission 47: Derailed (mis47)/start the mission while playing as: Michael De Santa
+51. Mission 48: Monkey Business (mis48)/start the mission while playing as: Michael De Santa
+52. Mission 49: Hang Ten (mis49)/start the mission while playing as: Trevor Philips
+53. Mission 50: Surveying The Score (mis50)/start the mission while playing as: Trevor Philips, Michael De Santa, Franklin Clinton
+54. Mission 51: Bury The Hatchet (mis51)/start the mission while playing as: Michael De Santa, Trevor Philips
+55. Mission 52: Pack Man (mis52)/start the mission while playing as: Franklin Clinton, Trevor Philips
+56. Mission 53: Fresh Meat (mis53)/start the mission while playing as: Franklin Clinton
+57. Mission 54: The Ballad Of Rocco (mis54)/start the mission while playing as: Michael De Santa
+58. Mission 55: Cleaning Out The Bureau (mis55)/start the mission while playing as: Trevor Philips, Michael De Santa, Franklin Clinton
+59. Mission 56: Reuniting The Family (mis56)/start the mission while playing as: Michael De Santa
+60. Mission 57: Architect's Plans (mis57)/start the mission while playing as: Franklin Clinton, Michael De Santa
+61. Mission 58: Doting Dad (mis58)/start the mission while playing as: Michael De Santa
+62. Mission 59: Legal Trouble (mis59)/start the mission while playing as: Michael De Santa
+63. Mission 60: The Bureau Raid (mis60)/start the mission while playing as: Michael De Santa
+64. Mission 61: The Wrap Up (mis61)/start the mission while playing as: Michael De Santa
+65. Mission 62: Lamar Down (mis62)/start the mission while playing as: Franklin Clinton
+66. Mission 63: Meltdown (mis63)/start the mission while playing as: Michael De Santa
+67. Mission 64: Planning The Big Score (mis64)/start the mission while playing as: Trevor Philips, Franklin Clinton, Michael De Santa
+68. Mission 65: Getaway Vehicle (mis65)/start the mission while playing as: Michael De Santa
+69. Mission 66: Sidetracked (mis66)/start the mission while playing as: Michael De Santa
+70. Mission 67: Driller (mis67)/start the mission while playing as: Michael De Santa
+71. Mission 68: The Big Score (mis68)/start the mission while playing as: Trevor Philips
+72. Mission 69: Finale (mis69)/start the mission while playing as: Franklin Clinton
+73. [iv: CLOSING TITLES/OUTRODUCTION TITLES/END CREDITS](#mis69:crdts): "creators, developers, etc."
+74. [Epilogue Mission 1: Trevor Philips](#sdemis:mis1): start the mission while playing as: Trevor Philips
+75. [Epilogue Mission 2: Franklin Clinton](#sdemis:mis2): start the mission while playing as: Franklin Clinton
+76. [Epilogue Mission 3: Michael De Santa](#sdemis:mis3): start the mission while playing as: Michael De Santa
 
-START A NEW GAME (sec:mis:nwgme)
+## START A NEW GAME
 To begin Story Mode, start a new game or select a mission. The missions start at mis1 to mis69
 Missions can vary from fast intense car chases, stealth, bank heists, planning, robberies, story interlinking
 and more. They can range from being really easy, over-complicated or extremely hard. They can be played
@@ -204,9 +203,7 @@ Each mission has been numbered to help keep things organised.
 
 To search for a mission or section in this guide, head to the index section (sec:index).
 
-======================
-mis
-======================
+# mis
 Missions
 
 CATEGORY: Story Missions - Missions
@@ -215,28 +212,15 @@ Each mission details and information have been written by me and nobody else. Th
 is copyright to me except where trademarks are owned by others. Your attention is brought to the license agreement
 which governs this documentation ("guide") which protects this guide from thieves and copyright-thieving bandits.
 
-The license agreement is broken down to make it easier for those who wish to seek permission to use this documentation
-for other uses other than private home use only. Where you decide to use this document elsewhere online or offline, you
-must first seek permission from me (the author of this document - details on how to contact me are at the top of this
-document).
+The license agreement can be found [here](https://warrenwoodhouse.blogspot.com/license).
 
-You may, however, only present this on your website with all the information included on this document along with my
-weblinks to where my websites are (as listed at the top of this document) and where the video game website is (which is
-also listed at the top of this document). You will need to follow the terms of this agreement at
-http://warrenwoodhouse.webs.com/terms/license
-
-You will need to add my main official website link www.warrenwoodhouse.webs.com onto the same page where the download is
-available and you will also need to mention my website to your users and fans.
-
-Apart from all of that, I would like to welcome you to my newest document of my other documents - Grand Theft Auto V
-XBOX 360, XBOX ONE, PlayStation 3 & PlayStation 4 Unofficial Walkthrough Guide by Warren Woodhouse
-(c)1989-2013 Warren Kris Woodhouse Publishing Rights. A WARREN WOODHOUSE COMPANY. All Rights Reserved.
+I would like to welcome you to my newest document of my other documents - Grand Theft Auto V
+XBOX 360, XBOX ONE, PlayStation 3, PlayStation 4 & PlayStation 5 Unofficial Walkthrough Guide by Warren Woodhouse
+(c)2013 Warren Kris Woodhouse Publishing Rights. A WARREN WOODHOUSE COMPANY. All Rights Reserved.
 video game software, manuals, addons and additional content
-(c)1997-2013 Rockstar Games, Inc. A TAKE-TWO COMPANY. All Rights Reserved.
+(c)2013 Rockstar Games, Inc. A TAKE-TWO COMPANY. All Rights Reserved.
 
-======================
-intro
-======================
+# intro
 i - Ludendorff, North Yankton, Nine Years Ago.
 
 CATEGORY: Story Missions - Missions
@@ -250,9 +234,7 @@ over in Ludendorff in the Midwest of the United States Of America.
 The Ludendorff Bank is about to get a wake up call that it never expected. It's Christmas Eve in 2003 and the boys are ready to make themselves a nice little early
 Christmas Present. What happens next is not what the team were expecting. This is where the game begins...
 
-======================
-mis1
-======================
+# mis1
 MISSION 1 - Prologue
 
 MISSION CATEGORY: Story Missions - Missions
