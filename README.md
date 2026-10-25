@@ -1,6 +1,11 @@
 # textdocuments
 Text Documents by Warren Woodhouse. For personal use only.
 
+# Files
+* [Example Git File](https://warrenwoodhouse.github.io/textdocuments/gitexample.txt)
+* [Example Subtitles File](https://warrenwoodhouse.github.io/textdocuments/example.sbv)
+* [GTA V Guide](https://warrenwoodhouse.github.io/textdocuments/gtav)
+
 # License Agreement
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/license) to read the License Agreement.
 
